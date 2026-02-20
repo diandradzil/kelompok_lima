@@ -4,7 +4,7 @@ import random
 nilai = random.randint(10, 50)
 print("Nilai:", nilai)
 
-if nilai >= 35:
+if nilai >= 30:
     print("Lulus")
 else:
     print("Mengulang")
