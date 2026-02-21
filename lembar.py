@@ -24,13 +24,13 @@ if nilai >= 95:
 elif nilai >= 90:
     print("Nilai B+")
 elif nilai >= 85:
-    print("Nialai B")
+    print("Nilai B")
 elif nilai >= 80:
-    print("Nialai B-")
+    print("Nilai B-")
 elif nilai >= 75:
-    print("Nialai C")
+    print("Nilai C")
 elif nilai >= 70:
-    print("Nialai C-")
+    print("Nilai C-")
 else:
     print("Anda Mengulang Semester Ini")
 
