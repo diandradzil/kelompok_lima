@@ -1,8 +1,8 @@
 # KELOMPOK 5
 
 # ANGGOTA KELOMPOK
-# Diandra Dzil Sayyid Az-Zulwa Syam (Coding, Penjelasan Line Code)
-# Andi Alfatia Salsabila (Pengertian Syntx Dan Beberapa Fungsi Fungsi)
+# Diandra Dzil Sayyid Az-Zulwa Syam (Coding, Penjelasan Line Code) (250907501025)
+# Andi Alfatia Salsabila (Pengertian Syntx Dan Beberapa Fungsi Fungsi) (250907502020)
 
 # Virtual Environment atau ENV adalah lingkungan Python terpisah untuk setiap proyek. Tujuannya agar library antar proyek tidak saling konflik.
 
